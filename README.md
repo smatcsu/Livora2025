@@ -4,3 +4,5 @@ Students will be able to login in their accounts using their ksain username and 
 
 Username: mrskim
 Password: livora
+
+Access: https://github.com/smatcsu/Livora2025
